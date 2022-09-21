@@ -23,6 +23,7 @@
 ## [ Chapter 03](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2003.py)
 
 - Get image size
+- Resize the image
 
 
 
