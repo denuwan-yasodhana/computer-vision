@@ -17,3 +17,6 @@ kernel = np.ones((5,5), np.uint8)                                     # numpy.on
 imgDialation = cv2.dilate(imgCanny, kernel, iterations=1)             # iterations is Number of times dilation or erosion is applied
 # How to change Image eroded(like before one)
 imgEroded = cv2.erode(imgDialation, kernel, iterations=1)
+
+
+
