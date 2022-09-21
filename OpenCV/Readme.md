@@ -24,6 +24,7 @@
 
 - Get image size
 - Resize the image
+- Crop the image
 
 
 
