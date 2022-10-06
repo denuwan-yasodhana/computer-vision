@@ -39,6 +39,7 @@
 
 - Extracting one picture from multi-picture image
 
+![Chapter 05](https://user-images.githubusercontent.com/110303643/194303134-992e7a66-cc48-4b1c-ba37-9bacb0355043.PNG)
 
 
 
