@@ -26,5 +26,18 @@
 - Resize the image
 - Crop the image
 
+## [ Chapter 04](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2004.py)
+
+- Create Black image
+- Create RGB color image
+- Make a Line
+- Make a Rectangle
+- Make a Circule
+- Put some Texts
+
+
+
+
+
 
 
