@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Create black image
-img = np.zeros((512,512))                       # .zero(shape, data type)
+img = np.zeros((512,512))                       # .zero(shape, data type) - It is used to create an array based on the particular shape or type. This function is similar to .ones() function
 print(img.shape)                                # (512, 512)   No- no of channels
 cv2.imshow("Display", img)
 cv2.waitKey(0)
