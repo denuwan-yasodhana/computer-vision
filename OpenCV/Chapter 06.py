@@ -45,8 +45,12 @@ def stackImages(scale,imgArray):
         ver = hor
     return ver
   
-  
+# Joining images Horizontally  
 imgStack = stackImages(0.5, ([img,img,img]))
+
+# Joining images Vertically  
+imgStack = stackImages(0.5, ([img,img,img], [img,img,img]))
+
 cv2.imshow("Using StackImages function", imgStack)
 cv2.waitKey(0)
   
