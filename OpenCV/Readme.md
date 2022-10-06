@@ -41,6 +41,16 @@
 
 ![Chapter 05](https://user-images.githubusercontent.com/110303643/194303134-992e7a66-cc48-4b1c-ba37-9bacb0355043.PNG)
 
+## [ Chapter 06](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2006.py)
+
+- Joining images Horizontally
+
+![Chapter 06 1](https://user-images.githubusercontent.com/110303643/194308495-0236d368-ddc7-4d8d-b5f3-9a76039140e1.PNG)
+
+- Joining images Vertically
+
+![Chapter 06 2](https://user-images.githubusercontent.com/110303643/194309031-3050d5c4-40b3-47a1-b84e-574f6970f132.PNG)
+
 
 
 
