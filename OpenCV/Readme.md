@@ -24,6 +24,9 @@
 
 ![Capture](https://user-images.githubusercontent.com/110303643/196139123-56cf4f5d-cf94-4d71-a49e-8b550c0d4622.PNG)
 
+- Add color to image [using 2 images]
+
+![Capture2](https://user-images.githubusercontent.com/110303643/196147073-f809fdf4-b5e8-47ca-9704-fdaaed93eddc.PNG)
 
 ## [ Chapter 03](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2003.py)
 
