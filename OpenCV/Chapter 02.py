@@ -58,5 +58,11 @@ while True:
     cv2.imshow("Mask image", maskImage)
     cv2.waitKey(1)
 
+    
+# Add color to image [using 2 images]
+    
+imgResult = cv2.bitwise_and(img, img, mask=maskImage)         # 2 images into 1 mage
 
+cv2.imshow("Result image", imgResult)
+cv2.waitKey(1)
 
