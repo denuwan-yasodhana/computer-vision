@@ -5,7 +5,7 @@ def empty(a):               # This function is used to change trackbar everytime
     pass
   
   
- # Change color using TrackBar
+ # Create TrackBar
 
 cv2.namedWindow("TrackBars")                                     # Create new window
 cv2.resizeWindow("TrackBars", 640, 240)                          # Use "same name", using for resize
