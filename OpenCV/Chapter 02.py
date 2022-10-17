@@ -54,6 +54,9 @@ while True:
     lower = np.array([h_min, s_min, v_min])
     upper = np.array([h_max, s_max, v_max])
     maskImage = cv2.inRange(imgHSV, lower, upper)                 # Set values to image
+ 
+    cv2.imshow("Mask image", maskImage)
+    cv2.waitKey(1)
 
 
 
