@@ -20,8 +20,10 @@
 
 ![erosion](https://user-images.githubusercontent.com/110303643/185773212-d09897f2-311d-4658-8dfd-fa1917051118.png)
 
-- Change color using TrackBar
-- 
+- change image value using trackbar
+
+![Capture](https://user-images.githubusercontent.com/110303643/196139123-56cf4f5d-cf94-4d71-a49e-8b550c0d4622.PNG)
+
 
 ## [ Chapter 03](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2003.py)
 
