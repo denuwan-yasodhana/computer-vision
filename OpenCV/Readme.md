@@ -59,9 +59,10 @@
 
 ![Chapter 06 2](https://user-images.githubusercontent.com/110303643/194309031-3050d5c4-40b3-47a1-b84e-574f6970f132.PNG)
 
+## [ Chapter 07](https://github.com/denuwan-yasodhana/computer_vision/blob/main/OpenCV/Chapter%2006.py)
 
+- To catch Contours / Shapes
 
-
-
+![Chapter 7](https://user-images.githubusercontent.com/110303643/209427527-bcbdee98-0560-4001-a5e0-95d7d946c736.png)
 
 
