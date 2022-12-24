@@ -5,8 +5,9 @@ path = 'Resources/shapes.png'
 img = cv2.imread(path)
 
 
+# To find the Contours
 def getContours(img):
-    contours,hierarchy = cv2.findContours(img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)
+    contours,hierarchy = cv2.findContours(img,cv2.RETR_EXTERNAL,cv2.CHAIN_APPROX_NONE)              # (image, retrieval method, )   
     for cnt in contours:
         area = cv2.contourArea(cnt)
         print(area)
